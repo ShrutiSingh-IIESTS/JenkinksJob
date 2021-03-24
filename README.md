@@ -1,2 +1,2 @@
 # JenkinksJob
-A repo to used for SCM in jenkii=ns
+A repo to used for SCM in jenkins
